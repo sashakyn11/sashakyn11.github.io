@@ -1,0 +1,657 @@
+@font-face{
+    font-family: 'Bebas Neue Bold';
+    src: url(./fonts/bebas_neue_bold.ttf);
+}
+.container{
+    position: absolute;
+    width: 1438px;
+    height: 769px;
+    left: 0px;
+    top: 0px;
+    background-image: url(./img/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    position: absolute;
+width: 101px;
+height: 23px;
+left: 669px;
+top: 40px;
+margin: 0;
+padding: 0;
+}
+.heading{
+    position: absolute;
+    width: 676px;
+    height: 60px;
+    left: 435px;
+    top: 380px;
+    
+    font-family: 'Bebas Neue Bold';
+    font-size: 60px;
+    line-height: 50px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 5.70937px;
+    
+    
+    color: #FFFFFF;
+}
+.slogan{
+    
+position: absolute;
+width: 386px;
+height: 22px;
+left: 560.5px;
+top: 439px;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;
+}
+.sc{
+    position: absolute;
+width: 117px;
+height: 15px;
+left: 661.5px;
+top: 742px;
+
+font-family: open-Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 11px;
+line-height: 15px;
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: 3.7px;
+
+color: #FFFFFF;
+}
+.navme{
+    position: absolute;
+width: 1442px;
+height:65px;
+left: 0px;
+top: 769px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+background: #fff;
+border: 1px solid #E6E6E6;
+box-sizing: border-box;
+}
+.logonav{
+    position: absolute;
+width: 79px;
+height: 18px;
+left: 251px;
+top: 24px;
+
+}
+.home{
+position: absolute;
+width: 40px;
+height: 16px;
+left: 781.5px;
+top: 25px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: 1.09091px;
+text-decoration: none;
+color: #48555B;
+
+}
+.about{
+    position: absolute;
+    width: 47px;
+    height: 16px;
+    left: 869.5px;
+    top: 25px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 1.09091px;
+    text-decoration: none;
+    color: #00A4E5;
+    
+}
+.services{
+
+    position: absolute;
+    width: 61px;
+    height: 16px;
+    left: 959px;
+    top: 25px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 1.09091px;
+    text-decoration: none;
+    color: #48555B;
+}
+.work{
+    position: absolute;
+    width: 40px;
+    height: 16px;
+    left: 1059px;
+    top: 25px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 1.09091px;
+    text-decoration: none;
+    color: #48555B;
+   
+}
+.contract{
+    position: absolute;
+    width: 40px;
+    height: 16px;
+    left: 1129px;
+    top: 25px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 1.09091px;
+    text-decoration: none;
+    color: #48555B;
+    
+    
+}
+.abouts{
+    position: absolute;
+    width: 100%;
+    height: 1246px;
+    left: 0px;
+    top: 830px;
+    background-color:#Fff;   
+}
+.ourstory{
+    position: absolute;
+width: 100%;
+height: 344px;
+left: 249px;
+top: 0px;
+background-color: #fff;
+}
+.our{
+    position: absolute;
+width: 121px;
+height: 25px;
+left: 411px;
+top: 20px;
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: 2.30625px;
+
+color: #48555B;
+
+}
+.founded{
+    position: absolute;
+width: 405.08px;
+height: 81px;
+left: 0px;
+top: 116px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 27px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 0.1875px;
+
+color: #48555B;
+}
+.videlenie{
+    color: #00A4E5;;
+}
+.issledovanie{
+    position: absolute;
+width: 405.08px;
+height: 115px;
+left: 0px;
+top: 227px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 23px;
+/* or 177% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.1875px;
+
+color: #48555B;
+
+}
+
+.betmap{
+    
+position: absolute;
+width: 100%;
+height: 300px;
+left: 504px;
+top: 110px;
+}
+.betmap h1{
+    position: absolute ;
+    position: absolute;
+width: 68px;
+height: 58px;
+left: 14px;
+top: 15px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+/* or 121% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.1875px;
+
+color: #FFFFFF;
+
+}
+.betmap2{
+    position: absolute;
+width: 120px;
+height: 225px;
+left: 20px;
+top: 0px;
+
+}
+.betmap h2{
+    position: absolute;
+width: 110px;
+height: 58px;
+left: 160px;
+top: 10px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+/* or 121% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.1875px;
+
+color: #FFFFFF;
+
+}
+.beatmap3{
+    position: absolute;
+width: 120px;
+height: 225px;
+left: 292px;
+top: 0px;
+}
+.beatmaph4{
+    position: absolute;
+    width: 76px;
+    height: 58px;
+    left: 294px;
+    top: 0px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    /* or 121% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1875px;
+    
+    color: #FFFFFF;
+}    
+.oursm{
+    position: absolute;
+    width: 100%;
+    height: 1246px;
+    left: 0px;
+    top: 1330px;
+    background-color:#fff;  
+}
+.oursmi{
+    position: absolute;
+width: 498px;
+height: 25px;
+left: 250px;
+top: -1px;
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 2.30625px;
+
+color: #48555B;
+}
+.oursmi  h2{
+    position: absolute;
+width: 405.4px;
+height: 38px;
+left: 353px;
+top: -35px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 19px;
+/* or 173% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+color: #48555B;
+}
+.all{
+position: absolute;
+width: 150px;
+height: 40px;
+left: 1100px;
+top: -30px;
+
+background: #00A4E5;
+}
+.all h1{
+    position: absolute;
+width: 92px;
+height: 18px;
+left: 29px;
+top: 5px;
+
+font-family: 'Courier New', Courier, monospace;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: 0.5px;
+
+color: #FFFFFF;
+
+}
+
+.imgbocks{
+    position: absolute;
+width: 65.62px;
+height: 75px;
+left: 230px;
+top: 208px;
+
+}
+.blocks h1{
+    position: absolute;
+width: 350px;
+height: 48px;
+left: 203px;
+top: 288px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.426667px;
+
+color: #48555B;
+}
+.blocks h2{
+    position: absolute;
+width: 250px;
+height: 92px;
+left: 203px;
+top: 369px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 23px;
+/* or 177% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.1875px;
+
+color: #48555B;
+
+}
+.imgbocks2{
+    position: absolute;
+width: 67.74px;
+height: 75px;
+left: 650px;
+top: 208px;
+
+}
+.blocks h3{
+    position: absolute;
+width: 250px;
+height: 48px;
+left: 590px;
+top: 280px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.426667px;
+
+color: #48555B;
+}
+.blocks h4{
+    
+position: absolute;
+width: 250px;
+height: 92px;
+left: 580px;
+top: 360px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 23px;
+/* or 177% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.1875px;
+
+color: #48555B;
+
+}
+.imgblocks3{
+    position: absolute;
+width: 70.59px;
+height: 75px;
+left: 1000px;
+top: 218px;
+
+}
+.blocks h5{
+    position: absolute;
+width: 250px;
+height: 48px;
+left: 950px;
+top: 278px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.426667px;
+
+color: #48555B;
+
+}
+.blocks h6{
+
+    position: absolute;
+    width: 250px;
+    height: 92px;
+    left: 950px;
+    top: 359px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 23px;
+    /* or 177% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1875px;
+    
+    color: #48555B;
+}
+
+
+.photsa{
+    position: absolute;
+width: 70.59px;
+height: 75px;
+left: 23px;
+top: 700px;
+
+}
+.photsa h1{
+    
+position: absolute;
+width: 350px;
+height: 72px;
+left: 545px;
+top: 120px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 36px;
+/* or 120% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.15px;
+
+color: #48555B;
+
+}
+.getintouch{
+    position: absolute;
+width: 98px;
+height: 18px;
+left: 630px;
+top: 0px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: 0.5px;
+
+color: #0000;
+}
+.knopka{
+    
+position: relative;
+width: 150px;
+height: 40px;
+left: 630px;
+top: -200px;
+color: #fff;
+text-align: center;
+background: #00A4E5;
+}
